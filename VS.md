@@ -4,6 +4,10 @@
    - [Crossroads](#crossroads)
 
 ## Kings Pass
+<details><summary>Kings Pass</summary>
+
+
+
 <details><summary>Hardfall</summary>
    Hardfall (reference)
    
@@ -13,7 +17,6 @@
    
 <details>
   <summary>Basic Softfall Setup</summary>
-   Basic softfall setup
    
    ![gif](https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/kp_noUpswing.webp)
    \
@@ -21,15 +24,12 @@
 </details>
 <details><summary>Upswing Setup</summary>
    
-   Upswing softfall setup
-   
    ![gif](https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/kp_upSwing.webp)
    \
    Slightly more involved version of the softfall setup. Jump right as the floor crumbles and breaks apart, but cancel your upwards momentum with an upswing right as you leave the ground. You should barely need to stop holding right at all. If you find yourself still needing to go neutral, your nail swing is too late. Saves .05-.1 over the non-upswing version of the strat. 
 
 </details>
 <details><summary>Rng softfall</summary>
-   Rng softfall
    
    ![gif](https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/kp_rng.webp)
    \
@@ -45,6 +45,9 @@
    | Rng | 4.918 | -0.835 |
    
    These strats are being referenced against the hardfall video located above (5.753)
+
+</details>
+
    
 ## Crossroads
 <details><summary>Crossroads Fall</summary> 
