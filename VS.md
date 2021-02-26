@@ -44,6 +44,8 @@
    | Upswing | 5.163 | -0.59 |
    | Rng | 4.918 | -0.835 |
    
+   These strats are being referenced against the hardfall video located above (5.753)
+   
 ## Crossroads
 <details><summary>Crossroads Fall</summary> 
    
@@ -94,9 +96,19 @@
    \
    <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/statuePogo.webp" width="384" height="216"/>
    <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/tiktikPogo.webp" width="384" height="216"/>
+   \
+   <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/regularPogo.webp" width="384" height="216"/>
+   
    
    The bottleneck for statue pogo is moreso in the vertical position of the knight, and less about the horizontal position. Once you clear the platform, you'll need to pause for a bit to let the knight get high enough to land on the platform. 
    
+   | Strat | Time (s) | Time Diff (s) |
+   | ----------- | ----------- | ---------- |
+   | Statue Pogo | 5.82 | -0.83 |
+   | Tiktik Pogo | 5.83 | -0.82 |
+   
+   These strats are being referenced against the Regular Pogo shown above (6.65s)
+     
 </details>
 <details><summary>False Knight</summary>
    
@@ -104,6 +116,12 @@
   <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/fk_noJump.webp" width="384" height="216"/>
   <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/fk_axJump.webp" width="384" height="216"/> 
      
-  Pre-jumping while breaking the FK shortcut allows you to start moving towards the main drop a bit sooner than not jumping. Pre-jumping saves ~0.15s over doing nothing at all
+  Pre-jumping while breaking the FK shortcut allows you to start moving towards the main drop a bit sooner than not jumping. 
+  
+   | Strat | Time (s) | Time Diff (s) |
+   | ----------- | ----------- | ---------- |
+   | Pre-Jump | 3.981 | -0.167 |
+   
+   This strat is being referenced against the non-jump strat shown on the left (4.148s)
 </details>
 
