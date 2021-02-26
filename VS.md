@@ -1,9 +1,9 @@
 # Vengeful Spirit  
-![header](https://cdn.discordapp.com/attachments/293555577991200770/776706041667911700/unknown.png)
-   - [Kings Pass](#kp)
+![header](https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/VS.png)
+   - [Kings Pass](#kings-pass)
    - [Crossroads](#crossroads)
 
-## Kings Pass {kp}
+## Kings Pass
 <details><summary>Hardfall</summary>
    Hardfall (reference)
    
