@@ -4,6 +4,13 @@
    - [Crossroads](#crossroads)
 
 ## Kings Pass {kp}
+<details><summary>Hardfall</summary>
+   Hardfall (reference)
+   
+   ![gif](https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/kp_hardfall.webp)
+
+</details>
+   
 <details>
   <summary>Basic Softfall Setup</summary>
    Basic softfall setup
@@ -33,30 +40,30 @@
 
    | Strat | Time (s) | Time Diff (s) |
    | ----------- | ----------- | ----------- |
-   | No Upswing | 5.224 | 0.0 |
-   | Upswing | 5.163 | -0.061 |
-   | Rng | 4.918 | -0.316 |
+   | No Upswing | 5.224 | -0.529 |
+   | Upswing | 5.163 | -0.59 |
+   | Rng | 4.918 | -0.835 |
+   
 ## Crossroads
-
-
 <details><summary>Crossroads Fall</summary> 
-
+   
    \
     <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/crossroadsFall_rightSide.webp" width="384" height="216"/>
     <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/crossroadsFall_middleSlam.webp" width="384" height="216"/>
    \
     <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/crossroadsFall_middleDunk.webp" width="384" height="216"/>
-
+    
 </details>
-   
-   
    
 <details><summary>Aspid Arena</summary>
    WIPWIPWIP
+   
    \
    <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/crossroadsFall_rightSide.webp" width="384" height="216"/>
    <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/crossroadsFall_middleSlam.webp" width="384" height="216"/>
-   \
+
+   For a video explaining this room, see [this video](https://www.youtube.com/watch?v=ley-RlVA4HE&ab_channel=Ax2u) from ax2u.
+   
 </details>
 <details><summary>Post-Arena</summary>
    <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/aypapaLineup.PNG" />
@@ -65,30 +72,30 @@
 </details>
    
 <details><summary>2 rooms past arena</summary>
+   
    \
    <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/postPapa_noLagReduc.webp" width="384" height="216"/>
    <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/postPapa_lagReduc.webp" width="384" height="216"/>
-   \
    
-   This strat involves manipulating the position of a fly so it doesn't kill itself on a goam and cause the game to lag. Do a full jump over the first goam and as high a jump as possible (without bonking on the wall) over the 2nd goam. This saves ~0.1 seconds 
+   This strat involves manipulating the position of a fly so it doesn't kill itself on a goam and cause the game to lag. Do a full jump over the first goam and as high a jump as possible (without bonking on the wall) over the 2nd goam.
 
 </details>
 <details><summary>Statue Pogo</summary>
+   
    \
    <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/statuePogo.webp" width="384" height="216"/>
    <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/tiktikPogo.webp" width="384" height="216"/>
    
-   \
    The bottleneck for statue pogo is moreso in the vertical position of the knight, and less about the horizontal position. Once you clear the platform, you'll need to pause for a bit to let the knight get high enough to land on the platform. 
    
    The tiktik pogo is included for completeness, but doesn't save time over a well executed statue pogo. It is also way harder, but it looks kinda cool so be warned. 
 </details>
 <details><summary>False Knight</summary>
+   
   \
   <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/fk_noJump.webp" width="384" height="216"/>
   <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/fk_axJump.webp" width="384" height="216"/> 
-  \
-   
-  Pre-jumping while breaking the FK shortcut allows you to start moving towards the drop a bit sooner than not jumping. 
+     
+  Pre-jumping while breaking the FK shortcut allows you to start moving towards the main drop a bit sooner than not jumping. 
 </details>
 
