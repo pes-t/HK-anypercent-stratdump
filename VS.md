@@ -53,22 +53,31 @@
    \
     <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/crossroadsFall_middleDunk.webp" width="384" height="216"/>
     
+    
+   | Strat | Time (s) |
+   | ----------- | ----------- |
+   | Right Side | 4.53 |
+   | Middle | 4.69 |
+   | Middle Dunk | 4.50 |
 </details>
    
 <details><summary>Aspid Arena</summary>
-   WIPWIPWIP
    
    \
-   <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/crossroadsFall_rightSide.webp" width="384" height="216"/>
-   <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/crossroadsFall_middleSlam.webp" width="384" height="216"/>
+   <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/aspidArena_botPlat.webp" width="384" height="216"/>
+   <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/aspidArena_topPlat.webp" width="384" height="216"/>
 
-   For a video explaining this room, see [this video](https://www.youtube.com/watch?v=ley-RlVA4HE&ab_channel=Ax2u) from ax2u.
+   This trick is decently tight. You want to jump from your starting location once you see the aspids begin to spawn in, then buffer a jump and hit the spike before it starts to fall. If done correctly, the spike will kill both aspids instantly. 
+   
+   Due to the positions of the platforms, using the bottom platform is slightly faster (due to you standing closer to the spike) but imo is a bit harder than doing the top platform version. Try both versions out and pick which once you like the best.
+   
+   For a video explaining this room, see [this video](https://www.youtube.com/watch?v=ley-RlVA4HE&ab_channel=Ax2u) by ax2u.
    
 </details>
 <details><summary>Post-Arena</summary>
    <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/aypapaLineup.PNG" />
    
-   Do a full jump at the red line to land on the middle ledge. Jump over the first goam (not quite a full jump) and you should be setup to make the rest of the cycle. 
+   Do a full jump at the red line to land on the middle ledge. Jump over the first goam (not quite a full jump) and you should be set up to make the rest of the cycle. 
 </details>
    
 <details><summary>2 rooms past arena</summary>
@@ -77,7 +86,7 @@
    <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/postPapa_noLagReduc.webp" width="384" height="216"/>
    <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/postPapa_lagReduc.webp" width="384" height="216"/>
    
-   This strat involves manipulating the position of a fly so it doesn't kill itself on a goam and cause the game to lag. Do a full jump over the first goam and as high a jump as possible (without bonking on the wall) over the 2nd goam.
+   This strat involves manipulating the position of a fly so it doesn't kill itself on a goam and cause the game to lag. Do a full jump over the first goam and as high a jump as possible (without bonking on the wall) over the 2nd goam. Saves ~0.1s
 
 </details>
 <details><summary>Statue Pogo</summary>
@@ -88,7 +97,6 @@
    
    The bottleneck for statue pogo is moreso in the vertical position of the knight, and less about the horizontal position. Once you clear the platform, you'll need to pause for a bit to let the knight get high enough to land on the platform. 
    
-   The tiktik pogo is included for completeness, but doesn't save time over a well executed statue pogo. It is also way harder, but it looks kinda cool so be warned. 
 </details>
 <details><summary>False Knight</summary>
    
@@ -96,6 +104,6 @@
   <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/fk_noJump.webp" width="384" height="216"/>
   <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/fk_axJump.webp" width="384" height="216"/> 
      
-  Pre-jumping while breaking the FK shortcut allows you to start moving towards the main drop a bit sooner than not jumping. 
+  Pre-jumping while breaking the FK shortcut allows you to start moving towards the main drop a bit sooner than not jumping. Pre-jumping saves ~0.15s over doing nothing at all
 </details>
 
