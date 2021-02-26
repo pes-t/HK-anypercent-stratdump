@@ -2,7 +2,7 @@
 
 ## Read me first
 - [Introduction](#introduction)
-- [General Movement](#general movement)
+- [General Movement](#general-movement)
 - [Format of Guide](#formatting)
 - [Credits](#credits)
 ## Content
