@@ -8,8 +8,7 @@
 
 
 
-<details><summary>Hardfall</summary>
-   Hardfall (reference)
+<details><summary>Hardfall (Reference)</summary>
    
    ![gif](https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/kp_hardfall.webp)
 
@@ -72,7 +71,7 @@
    <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/aspidArena_botPlat.webp" width="384" height="216"/>
    <img src="https://github.com/pes-t/HK-anypercent-stratdump/blob/main/images/vs/aspidArena_topPlat.webp" width="384" height="216"/>
 
-   This trick is decently tight. You want to jump from your starting location once you see the aspids begin to spawn in, then buffer a jump and hit the spike before it starts to fall. If done correctly, the spike will kill both aspids instantly. 
+   This trick is decently tight. You want to jump from your starting location once you see the aspids begin to spawn in, then buffer a jump and hit the spike before it starts to fall. If done correctly, the spike will kill both aspids instantly. If you find yourself failing it, you are likely not hitting the spike early enough. 
    
    Due to the positions of the platforms, using the bottom platform is slightly faster (due to you standing closer to the spike) but imo is a bit harder than doing the top platform version. Try both versions out and pick which once you like the best.
    
